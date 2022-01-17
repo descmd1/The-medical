@@ -1,0 +1,38 @@
+<Register>
+    <Patient>
+
+        <attr>Name of Patient</attr>
+        <property>Patricia Abe</property>
+
+    </Patient>
+    <Patient>
+
+        <attr>Address</attr>
+        <property>#15 Johnson's Street, Nyiman.</property>
+
+    </Patient>
+    <Patient>
+
+        <attr>Age</attr>
+        <property>20 years</property>
+
+    </Patient>
+    <Patient>
+
+        <attr>Date Visited</attr>
+        <property>10-01-2022</property>
+
+    </Patient>
+    <Patient>
+
+        <attr>Diagnoses</attr>
+        <property>Typhoid</property>
+
+    </Patient>
+    <Patient>
+
+        <attr>Admission Status</attr>
+        <property>Admitted</property>
+
+    </Patient>
+</Register> 

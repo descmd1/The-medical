@@ -1,0 +1,38 @@
+<Register>
+    <Patient>
+
+        <attr>Name of Patient</attr>
+        <property>Marshal Max</property>
+
+    </Patient>
+    <Patient>
+
+        <attr>Address</attr>
+        <property>#20 City road, Nyiman.</property>
+
+    </Patient>
+    <Patient>
+
+        <attr>Age</attr>
+        <property>31 years</property>
+
+    </Patient>
+    <Patient>
+
+        <attr>Date Visited</attr>
+        <property>07-01-2022</property>
+
+    </Patient>
+    <Patient>
+
+        <attr>Diagnoses</attr>
+        <property>Malaria</property>
+
+    </Patient>
+    <Patient>
+
+        <attr>Admission Status</attr>
+        <property>Not Admitted</property>
+
+    </Patient>
+</Register> 
